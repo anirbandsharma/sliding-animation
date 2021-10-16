@@ -1,5 +1,5 @@
 # sliding-animation
 
-Live demo : 
+Live demo : https://anirbandsharma.github.io/sliding-animation/
 
 Animated Logo text using gsap.
